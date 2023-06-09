@@ -22,9 +22,6 @@ class comp{
 int main(){
 	
 	comp obj(1,3,8,"name",2015,15,"tim cook");
-
-
-	obj.getter();
 	
 	
 	return 0;
